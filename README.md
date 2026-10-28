@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi There! Im Tito 👋
 
-<!--
-**TitoTheElephant/TitoTheElephant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quick about me
 
-Here are some ideas to get you started:
+I'm an IT professional with a background in technical support and systems administrator. Im Continuing to build my skills in cloud and computing, infrastructure, and automation as I work toward my goal of becoming a cloud Engineer
 
-- 🔭 I’m currently working on Cloud Engineering Training
-- 🌱 I’m currently learning Everything
-- 👯 I’m looking to collaborate on cloud related fun
-- 🤔 I’m looking for help with my awkwardness
-- 💬 Ask me about my beloved Chivas
-- 📫 How to reach me: titotheelephant@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: TBD. Im not that fun
+## What I'm learning
+
+- ☁️ Cloud computing and Microsoft Azure
+- 🐧 Linux and command-line tools
+- 🔧 Git and GitHub version control
+- 💻 IT cloud infrastructure and troubleshooting
+
+
 -->
